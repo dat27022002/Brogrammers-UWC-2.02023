@@ -1,0 +1,53 @@
+.title {
+    margin: 10px 40px;
+    border: 10px;
+    display: flex;
+}
+
+.border-bottom-gray {
+    padding: 20px 0px;
+    border-bottom: solid #979797 2px;
+}
+
+
+.mcp-list-table-container {
+    margin: 0px 40px;
+}
+
+.mcp-list-table-container tr:nth-child(even){background-color: #f2f2f2;}
+
+.mcp-list-table-header {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.mcp-list-table-item {
+    padding: 10px;
+    text-align: center;
+    font-weight: normal;
+}
+.mcp-table-filter-button{
+    position: relative;
+    bottom: 4px;
+    font-size: 5px;
+    background-color: #979797;
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 3.75px 5px;
+    border-radius: 50%;
+}
+.first-level {
+    color: #00B14F;
+}
+
+.second-level {
+    color: #D1D111;
+}
+.third-level {
+    color: #FF6B00;
+}
+.fourth-level {
+    color: #FF0000;
+}

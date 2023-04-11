@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "HCMUT 1",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 02:00:00"
+    },
+    {
+      "id": "2",
+      "name": "USSH",
+      "percentage": 100,
+      "lastCollected": "20/12/2021, 04:00:00"
+    },
+    {
+      "id": "3",
+      "name": "Dormitory area A",
+      "percentage": 60,
+      "lastCollected": "20/12/2021, 03:00:00"
+    },
+    {
+      "id": "4",
+      "name": "Dormitory area B",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 05:00:00"
+    },
+    {
+      "id": "5",
+      "name": "HCMUT 2",
+      "percentage": 100,
+      "lastCollected": "20/11/2021, 07:00:00"
+    },
+    {
+      "id": "6",
+      "name": "UEL",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 06:00:00"
+    },
+    {
+      "id": "7",
+      "name": "621 store",
+      "percentage": 100,
+      "lastCollected": "04/10/2022, 09:30:00"
+    },
+    {
+      "id": "8",
+      "name": "Student Cultural House",
+      "percentage": 0,
+      "lastCollected": "07/10/2022, 06:30:00"
+    },
+    {
+      "id": "9",
+      "name": "HCMUS",
+      "percentage": 65,
+      "lastCollected": "08/11/2022, 09:30:00"
+    }
+  ]
+}

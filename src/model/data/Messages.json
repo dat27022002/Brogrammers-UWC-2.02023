@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "users": ["100020003000", "072000001235"],
+      "messages": [
+        {
+          "senderId": "100020003000",
+          "timestamp": "20/12/2021 03:00:02",
+          "content": "Hey"
+        },
+        {
+          "senderId": "072000001235",
+          "timestamp": "20/12/2021 03:05:44",
+          "content": "Yes sir"
+        },
+        {
+          "senderId": "072000001235",
+          "timestamp": "20/12/2021 03:06:04",
+          "content": "What do you need?"
+        },
+        {
+          "senderId": "100020003000",
+          "timestamp": "20/12/2021 03:07:59",
+          "content": "You go here"
+        },
+        {
+          "senderId": "072000001235",
+          "timestamp": "20/12/2021 03:10:10",
+          "content": "Got it sir"
+        },
+        {
+          "senderId": "100020003000",
+          "timestamp": "20/12/2021 03:20:09",
+          "content": "Okay"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "users": ["100020003000", "092740727500"],
+      "messages": [
+        {
+          "senderId": "092740727500",
+          "timestamp": "22/12/2021 07:00:00",
+          "content": "Hello back officer!!!"
+        },
+        {
+          "senderId": "100020003000",
+          "timestamp": "22/12/2021 07:00:46",
+          "content": "Hello, nice to meet you"
+        },
+        {
+          "senderId": "092740727500",
+          "timestamp": "22/12/2021 07:01:22",
+          "content": "Nice to meet you too!"
+        },
+        {
+          "senderId": "100020003000",
+          "timestamp": "23/12/2021 07:05:11",
+          "content": "Good luck on your new job!"
+        },
+        {
+          "senderId": "092740727500",
+          "timestamp": "23/12/2021 07:15:09",
+          "content": "Thanks a lot!"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "users": ["100020003001", "012200306780"],
+      "messages": [
+        {
+          "senderId": "100020003001",
+          "timestamp": "25/10/2022 07:08:11",
+          "content": "Hello!!!"
+        },
+        {
+          "senderId": "012200306780",
+          "timestamp": "26/10/2022 01:39:26",
+          "content": "Hi! Sorry for the late response, have been kinda busy..."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "users": ["100020003001", "308278049724"],
+      "messages": [
+        {
+          "senderId": "100020003001",
+          "timestamp": "11/01/2022 08:30:32",
+          "content": "Hello there!"
+        },
+        {
+          "senderId": "308278049724",
+          "timestamp": "20/12/2021 11:50:19",
+          "content": "Bonjour monsieur!"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "users": ["100020003001", "311141464747"],
+      "messages": [
+        {
+          "senderId": "100020003001",
+          "timestamp": "23/06/2022 17:43:18",
+          "content": "¿Hola cómo estás?"
+        },
+        {
+          "senderId": "311141464747",
+          "timestamp": "24/06/2022 14:10:26",
+          "content": "Qué pasa"
+        },
+        {
+          "senderId": "100020003001",
+          "timestamp": "24/06/2022 15:00:58",
+          "content": "El cielo"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "users": ["100020003000", "878914369718"],
+      "messages": [
+        {
+          "senderId": "878914369718",
+          "timestamp": "26/07/2022 09:10:22",
+          "content": "おはようございます"
+        },
+        {
+          "senderId": "100020003000",
+          "timestamp": "26/07/2022 09:15:26",
+          "content": "你好！"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "users": ["100020003000", "015485118162"],
+      "messages": [
+        {
+          "senderId": "100020003000",
+          "timestamp": "29/12/2021 10:00:00",
+          "content": "Hello!!!"
+        },
+        {
+          "senderId": "100020003000",
+          "timestamp": "01/01/2022 00:05:48",
+          "content": "Happy new year!"
+        },
+        {
+          "senderId": "100020003000",
+          "timestamp": "05/01/2022 07:09:16",
+          "content": "... :("
+        }
+      ]
+    }
+  ]
+}
