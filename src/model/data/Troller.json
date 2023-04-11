@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "location": "HCMUT 1",
+      "uesdById": "028639477783",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "location": "USSH",
+      "uesdById": "749692129382",
+      "status": 1
+    },
+    {
+      "id": "3",
+      "location": "Dormitory area A",
+      "uesdById": "320203413022",
+      "status": 1
+    },
+    {
+      "id": "4",
+      "location": "Dormitory area B",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "5",
+      "location": "HCMUT 2",
+      "uesdById": "859647728663",
+      "status": 1
+    },
+    {
+      "id": "6",
+      "location": "UEL",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "7",
+      "location": "621 store",
+      "uesdById": "342933642935",
+      "status": 1
+    },
+    {
+      "id": "8",
+      "location": "Student Cultural House",
+      "uesdById": "073108841254",
+      "status": 1
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+
+.container-2 {
+    margin: 0px 40px;
+    padding: 10px;
+}
+
+.border-blue {
+    border: solid #0584FE 2px;
+}
+
+.profile-image {
+    width: 15%;
+    display: inline-block;
+    height: 100px;
+}
+
+.profile-text {
+    width: 60%;
+    display: inline-block;
+    height: 100px;
+    vertical-align: text-bottom;
+}
+.profile-text-2 {
+    width: 20%;
+    display: inline-block;
+    height: 100px;
+    vertical-align: text-bottom;
+    font-size: 18px;
+}
+
+.rounded-image-large {
+    width: 150px;
+    height: 100px;
+    border-radius: 75px;
+}
+
+.employee-profile-username{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+
+.table-item-2 {
+    width: 25%;
+    padding: 10px;
+}
+
+.table-2 tr:nth-child(even){background-color: #f2f2f2;}
+
+.table-2 {
+    margin: 20px 40px 0px 40px;
+    width: calc(100% - 80px);
+}
+
+.available-container {
+    background-color: #CFF6DD;
+    display: inline-block;
+    padding: 0px 10px;
+    color: #1FA750;
+    border-radius: 15px;
+}
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #1FA750;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+  }
+.dot-2 {
+    height: 10px;
+    width: 10px;
+    background-color: #FF0000;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+  }
+
+.unavailable-container {
+    background: rgba(255, 164, 164, 0.61);
+    display: inline-block;
+    padding: 0px 10px;
+    color: #FF0000;
+    border-radius: 15px;
+}
