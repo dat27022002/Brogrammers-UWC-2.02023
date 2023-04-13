@@ -1,0 +1,36 @@
+.home-container {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    width: 80%;
+}
+.background-1
+{
+    height: calc(100vh - 71.5px);
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-title {
+    font-size: 40px;
+}
+
+.home-title-2 {
+    font-size: 35px;
+}
+
+.member-list li{
+    font-size: 30px;
+}
+
+.text-white {
+    color: white;
+}
+
+li {
+    list-style-position: inside;
+}

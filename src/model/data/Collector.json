@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": "072000001235",
+      "username": "robdillman9000",
+      "firstName": "Robert",
+      "lastName": "Hardworking",
+      "position": 1,
+      "avatar": "https://img.freepik.com/free-photo/beautiful-scenery-phragmites-plants-by-sea-with-swimming-pelican-sunset_181624-37787.jpg?w=2000",
+      "status": 1,
+      "memberSince": "01/01/2020"
+    },
+    {
+      "id": "092740727500",
+      "username": "arnold_herman",
+      "firstName": "Arnold",
+      "lastName": "Herman",
+      "position": 1,
+      "avatar": "https://media.wired.com/photos/593261cab8eb31692072f129/master/pass/85120553.jpg",
+      "status": 0,
+      "memberSince": "10/07/2021"
+    },
+    {
+      "id": "012200306780",
+      "username": "mariasims",
+      "firstName": "Maria",
+      "lastName": "Sims",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/08/08cef0c1126891990d95b4d143026a054fac07eb_full.jpg",
+      "status": 1,
+      "memberSince": "14/02/2019"
+    },
+    {
+      "id": "308278049724",
+      "username": "tinselcamera",
+      "firstName": "Allison",
+      "lastName": "Lee",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/08/08d1a995c1d0d1bbad0aaffa327349e68ba88030_full.jpg",
+      "status": 0,
+      "memberSince": "13/11/2018"
+    },
+    {
+      "id": "311141464747",
+      "username": "joyeuxroutine",
+      "firstName": "Michael",
+      "lastName": "Summers",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/0099213c377acc08b2c463eb77c5562df4659bc9_full.jpg",
+      "status": 1,
+      "memberSince": "22/01/2022"
+    },
+    {
+      "id": "308098049114",
+      "username": "eagledash",
+      "firstName": "Farid",
+      "lastName": "Sunny",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/08/08d7113418af4bb41ec839c93c185b7ad17febc6_full.jpg",
+      "status": 0,
+      "memberSince": "10/10/2015"
+    },
+    {
+      "id": "309002049724",
+      "username": "tinselcamera",
+      "firstName": "David",
+      "lastName": "Rodriguez",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/00991dffc3f26103eda5c4f26522b2772a33749a_full.jpg",
+      "status": 1,
+      "memberSince": "30/06/2018"
+    },
+    {
+      "id": "308278096844",
+      "username": "tinselcamera",
+      "firstName": "Alex",
+      "lastName": "Morphy",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/009923b6d8065132f0d6ffc7b09599adea5fc846_full.jpg",
+      "status": 1,
+      "memberSince": "18/10/2017"
+    },
+    {
+      "id": "397474090704",
+      "username": "christmastidecousin",
+      "firstName": "Connor",
+      "lastName": "Zimmer",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/009923b6d8065132f0d6ffc7b09599adea5fc846_full.jpg",
+      "status": 1,
+      "memberSince": "03/12/2020"
+    },
+    {
+      "id": "308204729724",
+      "username": "vixenagainst",
+      "firstName": "Jack",
+      "lastName": "Fischer",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/009926b4114678c48210713c8a5446e99b6fcd15_full.jpg",
+      "status": 1,
+      "memberSince": "02/09/2013"
+    },
+    {
+      "id": "308200270724",
+      "username": "chillysolve",
+      "firstName": "Joe",
+      "lastName": "Mallory",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/0099223a6f6017c2fb9680fe23fd047d5532b9f9_full.jpg",
+      "status": 1,
+      "memberSince": "19/12/2021"
+    },
+    {
+      "id": "308278194502",
+      "username": "bakingbomb",
+      "firstName": "Danny",
+      "lastName": "Phillips",
+      "position": 1,
+      "avatar": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/00991d28b4660bfdf4e9b4bf45771840a16b12d3_full.jpg",
+      "status": 0,
+      "memberSince": "14/03/2019"
+    }
+  ]
+}

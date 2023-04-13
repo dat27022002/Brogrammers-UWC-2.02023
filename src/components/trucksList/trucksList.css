@@ -1,0 +1,107 @@
+.title {
+    margin: 0px 40px;
+    border: 10px;
+    display: flex;
+}
+
+.border-bottom-gray {
+    border-bottom: solid #979797 2px;
+}
+
+.left-div {
+    width: 75%;
+}
+
+.right-div {
+    width: 25%;
+}
+.navlink-truck:link {
+    text-decoration: none;
+}
+.navlink-truck-left:link {
+    color: #000000;
+}
+.navlink-truck-right:link {
+    color: #1FA750;
+}
+
+.navlink-truck:visited {
+    text-decoration: none;
+}
+.navlink-truck-left:visited {
+    color: #000000;
+}
+.navlink-truck-right:visited {
+    color: #1FA750;
+}
+.navlink-truck-container-left {
+    margin: 10px 0px;
+    border: 10px;
+    border-style: solid;
+    border-color: #C5C5C5;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 10px 40px;
+    float: left;
+    background-color: #C5C5C5;
+    color: #000000;
+}
+.navlink-truck-container-right {
+    margin: 10px 0px;
+    border: 10px;
+    border-style: solid;
+    border-color: #56E134;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 10px 40px;
+    float: left;
+    background-color: #CFF6DD;
+    color: #1FA750;
+}
+.truck-list-table-container {
+    margin: 0px 40px;
+}
+.truck-list-table-container tr:nth-child(even){background-color: #f2f2f2;}
+.truck-list-table{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0em 0px;
+}
+.truck-list-table-header {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.truck-list-table-item {
+    padding: 10px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.truck-list-status-available {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 15px;
+    background-color: #CFF6DD;
+    color: #1FA750;
+}
+
+.truck-list-status-in-use {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 15px;
+    background-color: #FDF5DD;
+    color: #CFA00C;
+}
+.truck-list-filter-button{
+    position: relative;
+    bottom: 4px;
+    font-size: 5px;
+    background-color: #979797;
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 3.75px 5px;
+    border-radius: 50%;
+}
