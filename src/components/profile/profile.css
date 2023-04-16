@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+}
+.image-name-container{
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+}
+.image-container{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.form-container{
+    width: 70%;
+    padding: 20px;
+}
+.form-grid-container{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-gap:1em;
+    margin: 10px 50px;
+}
+.form-grid-item{
+    padding: 8px;
+    border-radius: 4px;
+}
+.form-button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-button{
+    background-color: #00B14F;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border-style: none;
+    padding: 8px 30px;
+    font-weight: bold;
+}

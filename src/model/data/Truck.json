@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "location": "HCM City University of Technology 1",
+      "uesdById": "072000001235",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "location": "HCM City University of Technology 2",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "3",
+      "location": "Creative Square",
+      "uesdById": "308204729724",
+      "status": 1
+    },
+    {
+      "id": "4",
+      "location": "Zone A Dormitory VNUHCM",
+      "uesdById": "397474090704",
+      "status": 1
+    },
+    {
+      "id": "5",
+      "location": "HCM City University of Technology 2",
+      "uesdById": "308098049114",
+      "status": 1
+    },
+    {
+      "id": "6",
+      "location": "HCM City University of Technology 1",
+      "uesdById": "092740727500",
+      "status": 1
+    },
+    {
+      "id": "7",
+      "location": "Zone A Dormitory VNUHCM",
+      "uesdById": "",
+      "status": 0
+    }
+  ]
+}

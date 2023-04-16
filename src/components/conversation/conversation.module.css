@@ -1,0 +1,180 @@
+.messContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.messFrame {
+    margin-top: 30px;
+    width: 900px;
+    border: 1px solid #000000;
+    border-radius: 50px;
+}
+
+.messHeader {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.backBtnContainer {
+    margin: 43px 16px 43px 35px;
+}
+
+.backBtn {
+    font-size: 25px;
+    color: #0584FE;
+    background: none;
+    border: none;
+}
+
+.messInfoBtn:hover,
+.backBtn:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.messImage {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    background: #ddd;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+    border: 1px solid rgb(32, 174, 203);
+}
+
+.statusCircles {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border: 2px solid white;
+    position: absolute;
+    right: 8px;
+    bottom: 6px;
+}
+
+.statusOnline {
+    background: #56E134;
+}
+
+.statusOffline {
+    background: #e13434;
+}
+
+.messUserContainer {
+    flex: 1;
+    margin-left: 16px;
+}
+
+.messUserName {
+    font-weight: 700;
+    font-size: 40px;
+    position: relative;
+}
+
+.messUserPosition {
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.messUserStatus {
+    font-size: 20px;
+    color: rgba(107, 104, 104, 0.5);
+}
+
+.messInfoBtn {
+    font-size: 25px;
+    color: #0584FE;
+    background: none;
+    border: none;
+    margin-right: 35px;
+}
+
+.chatFrameContent {
+    width: 860px;
+    height: 400px;
+    overflow-y: scroll;
+    padding: 0 20px;
+}
+
+.chatFrameContent::-webkit-scrollbar {
+    width: 30px;
+}
+
+.chatFrameContent::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 10px 10px #ddd;
+    border: solid 10px transparent;
+}
+
+.chatFrameContent::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 10px 10px #bdbdbd;
+    border: solid 10px transparent;
+}
+
+.chatLineContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.chatLineAvatar {
+    width: 75px;
+    height: 75px;
+    background: #ddd;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.chatBubble {
+    max-width: 450px;
+    padding: 10px;
+    border-radius: 15px;
+    background: #ececec;
+    margin: 0 15px;
+}
+
+.chatText {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.chatLineRight {
+    flex-direction: row-reverse;
+}
+
+.messInputContainer {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.messInputBox {
+    width: 580px;
+    background-color: white;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    padding: 10px 15px;
+    border: none;
+}
+
+.sendBtn {
+    background: #00B14F;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    padding: 0 15px;
+    margin-left: 15px;
+}
+
+.sendBtn:hover {
+    cursor: pointer;
+    color: black;
+    background: #27ee81;
+}
