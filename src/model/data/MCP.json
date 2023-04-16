@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "HCM City University of Technology 1",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 02:00:00"
+    },
+    {
+      "id": "2",
+      "name": "Hoa Hao Dormitory",
+      "percentage": 100,
+      "lastCollected": "20/12/2021, 04:00:00"
+    },
+    {
+      "id": "3",
+      "name": "Zone A Dormitory VNUHCM",
+      "percentage": 60,
+      "lastCollected": "20/12/2021, 03:00:00"
+    },
+    {
+      "id": "4",
+      "name": "Zone B Dormitory VNUHCM",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 05:00:00"
+    },
+    {
+      "id": "5",
+      "name": "HCM City University of Technology 2",
+      "percentage": 100,
+      "lastCollected": "20/11/2021, 07:00:00"
+    },
+    {
+      "id": "6",
+      "name": "HCM University of Economics and Law",
+      "percentage": 80,
+      "lastCollected": "20/12/2021, 06:00:00"
+    },
+    {
+      "id": "7",
+      "name": "621 store",
+      "percentage": 100,
+      "lastCollected": "04/10/2022, 09:30:00"
+    },
+    {
+      "id": "8",
+      "name": "Creative Square",
+      "percentage": 0,
+      "lastCollected": "07/10/2022, 06:30:00"
+    },
+    {
+      "id": "9",
+      "name": "HCM University of Science",
+      "percentage": 65,
+      "lastCollected": "08/11/2022, 09:30:00"
+    }
+  ]
+}

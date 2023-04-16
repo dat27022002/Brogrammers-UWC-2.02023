@@ -1,0 +1,68 @@
+.navlinks-container {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 10px 0px;
+    border-bottom: 2px solid black;
+    margin: 0;
+    background-color: #254330;
+    text-align: center;
+}
+
+.center {
+    text-align: center!important;
+}
+
+.navlinks-item{
+    border: none;
+    padding: 15px 32px;
+    margin: 0px 10px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.rounded-button {
+    background-color: #3DA35D;
+    border: none;
+}
+
+.rounded-button:hover{
+    background-color: rgb(9, 206, 193);
+    animation-name: changeColor;
+    animation-duration: 2s;
+    border: 2px solid black;
+}
+
+.logo-container{
+    margin: 0px 10px;
+    vertical-align: middle;
+    width: 49.44px;
+    height: 49.44px;
+    border-radius: 25px;
+}
+
+.logout-button{
+    vertical-align: middle;
+    display: grid;
+}
+
+.f-left {
+    float: left;
+}
+.f-right {
+    float: right;
+}
+
+.user-container{
+    border: none;  
+    width: 132px;
+    margin:  10px 0px 9px 0px;
+    vertical-align:top;
+    text-align: center;
+    padding: 10.5px 0px 10.5px 0px;
+    float: right;  
+}
+
+
