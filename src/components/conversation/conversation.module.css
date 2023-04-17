@@ -138,6 +138,7 @@
     border-radius: 15px;
     background: #ececec;
     margin: 0 15px;
+    word-wrap: break-word;
 }
 
 .chatText {

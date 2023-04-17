@@ -4,6 +4,14 @@
     text-decoration: none;
 }
 
+.logo-container {
+    margin: 0px 10px;
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
 .logo-title {
     color: #fff;
     font-size: 32px;
@@ -17,6 +25,7 @@
     padding: 10px 0px;
     margin: 0;
     background-color: #1CCD5D;
+    font-family: "Segoe UI", sans-serif;
     text-align: center;
 }
 
@@ -32,6 +41,7 @@
     text-align: center;
     text-decoration: none;
     color: white;
+    font-size: 20px;
 }
 
 .rounded-button {
@@ -44,14 +54,6 @@
     animation-name: changeColor;
     animation-duration: 2s;
     border: 2px solid black;
-}
-
-.logo-container {
-    margin: 0px 10px;
-    vertical-align: middle;
-    width: 49.44px;
-    height: 49.44px;
-    border-radius: 25px;
 }
 
 .logout-button {
@@ -75,4 +77,12 @@
     text-align: center;
     padding: 10.5px 0px 10.5px 0px;
     float: right;
+}
+
+.navlinks-item:not(:last-child):hover {
+    color: #ccc;
+}
+
+.navlinks-item:last-child {
+    user-select: none;
 }

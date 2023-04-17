@@ -2,37 +2,6 @@ import React from "react";
 import Navbar from "../navbar/Navbar";
 import "./home.css"
 
-const members = [
-  {
-    fullName: 'Đoàn Duy Long',
-    id: 2013653 
-  },
-  {
-    fullName: 'Nguyễn Tấn Đạt',
-    id: 2012932 
-  },
-  {
-    fullName: 'Dương Hoàng hảo',
-    id: 2013091 
-  },
-  {
-    fullName: 'Phan Anh Hào',
-    id: 2103055 
-  },
-  {
-    fullName: 'Lê Minh Khiêm',
-    id: 2013484 
-  },
-  {
-    fullName: 'Phạm Nhật Linh',
-    id: 2013641 
-  },
-  {
-    fullName: 'Phạm Khánh Minh',
-    id: 2013783 
-  }
-];
-
 const Home = () => {
   return (
     <>
@@ -42,16 +11,20 @@ const Home = () => {
         <h3 className="home-title-2">Member</h3>
         <main className="member-list text-white">
           <ol>
-            {members.map(member => (
-              <li key={member.id}>{member.fullName} - {member.id}</li>
-            ))}
+            <li className="home-font">Đoàn Duy Long - 2013653</li>
+            <li>Nguyễn Tấn Đạt - 2012932 (Leader)</li>
+            <li>Dương Hoàng Hảo - 2013091</li>
+            <li>Phan Anh Hào - 2013055</li>
+            <li>Lê Minh Khiêm - 2013484</li>
+            <li>Phạm Nhật Linh - 2013641</li>
+            <li>Phạm Khánh Minh - 2013783</li>
           </ol>
         </main>
       </div>
       <div className="background-1">
-      </div>
+    </div>
     </>
   )
 }
 
-export default Home;
+export default Home

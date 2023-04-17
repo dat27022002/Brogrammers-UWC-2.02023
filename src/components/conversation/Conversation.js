@@ -74,7 +74,7 @@ const Conversation = () => {
                         </div>
 
                         <div className={styles.chatBubble}>
-                          <div className={styles.chatText}>{message.content}</div>
+                          <p className={styles.chatText}>{message.content}</p>
                         </div>
                       </div>
                     </span>

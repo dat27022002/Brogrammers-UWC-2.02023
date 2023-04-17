@@ -37,13 +37,7 @@ React.useEffect(() => {
           <NavLink to="/assign" id = '/assign' className = "navlinks-item">Assign task</NavLink>
           <NavLink to="/chat" id = '/chat' className = "navlinks-item">Chat</NavLink>
           
-          <button 
-            onClick={handleLogout} 
-            className = 'f-right logo-container rounded-button'
-            style={{cursor: 'pointer', color: '#fff'}}
-          >
-            <i className="fa-solid fa-right-from-bracket"></i>
-          </button>
+          <button onClick={handleLogout} className = 'f-right logo-container rounded-button'><i className="fa-sharp fa-solid fa-power-off"></i></button>
           <NavLink to="/profile"><img className= 'logo-container f-right' src={user.avatar} alt="User avatar"/></NavLink>
           <p className = 'navlinks-item f-right'>Hello, {user.firstName}</p>
       </div>
