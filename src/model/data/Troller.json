@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "51AB-55555",
+      "location": "Hoa Hao Dormitory",
+      "uesdById": "028639477783",
+      "status": 1
+    },
+    {
+      "id": "51AB-33333",
+      "location": "Zone B Dormitory VNUHCM",
+      "uesdById": "749692129382",
+      "status": 1
+    },
+    {
+      "id": "51AB-44444",
+      "location": "HCM University of Science",
+      "uesdById": "320203413022",
+      "status": 1
+    },
+    {
+      "id": "51AB-22222",
+      "location": "HCM University of Economics and Law",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "51AB-11111",
+      "location": "Creative Square",
+      "uesdById": "859647728663",
+      "status": 1
+    },
+    {
+      "id": "51AB-66666",
+      "location": "Zone A Dormitory VNUHCM",
+      "uesdById": "",
+      "status": 0
+    },
+    {
+      "id": "51AB-77777",
+      "location": "HCM City University of Technology 2",
+      "uesdById": "342933642935",
+      "status": 1
+    },
+    {
+      "id": "51AB-88888",
+      "location": "HCM City University of Technology 1",
+      "uesdById": "073108841254",
+      "status": 1
+    }
+  ]
+}

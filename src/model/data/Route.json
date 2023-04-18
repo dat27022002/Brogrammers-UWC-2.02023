@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "MCPIdList": [
+        "3", "2", "9", "1", "6", "5"
+      ],
+      "estimateTime": 1.5
+    },
+    {
+      "id": "2",
+      "MCPIdList": [
+        "2", "5", "9", "1", "8", "7"
+      ],
+      "estimateTime": 2
+    },
+    {
+      "id": "3",
+      "MCPIdList": [
+        "5", "6", "9", "2", "4", "1"
+      ],
+      "estimateTime": 3
+    },
+    {
+      "id": "4",
+      "MCPIdList": [
+        "1", "6", "7", "2", "5", "4"
+      ],
+      "estimateTime": 1.25
+    },
+    {
+      "id": "5",
+      "MCPIdList": [
+        "5", "8", "9", "7", "6", "1"
+      ],
+      "estimateTime": 1
+    },
+    {
+      "id": "6",
+      "MCPIdList": [
+        "2", "7", "9", "3", "8", "6"
+      ],
+      "estimateTime": 0.5
+    }
+  ]
+}
