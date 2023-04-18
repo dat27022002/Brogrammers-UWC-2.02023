@@ -1,0 +1,41 @@
+.home-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.background-1 {
+    height: calc(100vh - 71.5px);
+    background-image: url(../../../public/bg-home.png);
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-title {
+    font-size: 40px;
+    letter-spacing: 1.4px;
+    margin-bottom: 10px;
+}
+
+.home-title-2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.member-list li {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.text-white {
+    color: black;
+}
+
+li {
+    list-style-position: inside;
+}

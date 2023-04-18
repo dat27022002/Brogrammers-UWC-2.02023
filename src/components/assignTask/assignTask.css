@@ -1,0 +1,40 @@
+.assign-task-container {
+    padding: 10px 100px;
+}
+.assign-task-header-h1 {
+    padding: 10px 0px 30px 0px;
+}
+.assign-task-header-h2 {
+    padding: 20px 0px;
+}
+.assign-task-table {
+    table-layout: fixed;
+    width: 100%;
+}
+.assign-task-table-header {
+    text-align: left;
+    padding: 10px 0px;
+}
+.assign-task-table-item-select-container {
+    padding: 0px 30px 0px 0px;
+}
+.assign-task-table-item-select {
+    width: 100%;
+    height: 30px;
+}
+.assign-task-table-2-item-select {
+    width: 100%;
+    height: 30px;
+}
+.assign-task-text {
+    padding: 10px 0px;
+}
+.assign-task-submit-button {
+    background-color: #00B14F;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-style: none;
+    position: relative;
+    left: 50%;
+}

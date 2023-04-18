@@ -1,0 +1,91 @@
+.chatList {
+    height: 550px;
+    margin-top: 30px;
+    overflow-y: scroll;
+    border-radius: 2px;
+    padding: 0 100px;
+}
+
+.chatList::-webkit-scrollbar {
+    display: block;
+    width: 10px;
+}
+
+.chatList::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.chatList::-webkit-scrollbar-thumb {
+    background-color: #979797;
+}
+
+.chatList::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+}
+
+.chatList::-webkit-scrollbar-track-piece:end {
+    background: #D9D9D9;
+    margin-bottom: 50px;
+}
+
+.chatList::-webkit-scrollbar-track-piece:start {
+    background: #D9D9D9;
+    margin-top: 50px;
+}
+
+.chatItem {
+    width: 835px;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    background: #D9D9D9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.chatItem:hover {
+    border: solid rgb(0, 153, 255) 2px;
+    padding: 2px;
+}
+
+.chatContainerImage {
+    margin: 16px;
+}
+
+.chatItemImage {
+    height: 120px;
+    width: 120px;
+    border-radius: 70px;
+}
+
+.chatItemText {
+    flex-grow: 1;
+}
+
+.chatName {
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+.chatLastMessage {
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.chatLastTime {
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.chatItemThreePoint {
+    font-size: 45px;
+    color: black;
+    margin-right: 16px;
+    display: flex;
+    align-items: center;
+}

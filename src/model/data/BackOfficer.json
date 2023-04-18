@@ -1,0 +1,25 @@
+{
+    "data": [{
+            "id": "B01",
+            "username": "AaronTheBO",
+            "email": "aaronj@gmail.com",
+            "firstName": "Aaron",
+            "lastName": "James",
+            "password": "james",
+            "birthDate": "05/11/1990",
+            "avatar": "https://i.pinimg.com/originals/4f/6c/41/4f6c41b581c4a6793b73d29e00bf02aa.jpg",
+            "memberSince": "01/08/2019"
+        },
+        {
+            "id": "B02",
+            "username": "bobby2202",
+            "email": "bobm@gmail.com",
+            "firstName": "Bob",
+            "lastName": "Mason",
+            "password": "mason",
+            "birthDate": "22/02/1985",
+            "avatar": "https://i.pinimg.com/originals/41/b5/20/41b52066db3133237c2bf8dd3de4293e.jpg",
+            "memberSince": "23/08/2020"
+        }
+    ]
+}
