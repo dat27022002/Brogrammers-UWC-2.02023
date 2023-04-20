@@ -27,6 +27,7 @@
     background-color: #1CCD5D;
     font-family: "Segoe UI", sans-serif;
     text-align: center;
+    z-index: 1;
 }
 
 .center {
@@ -80,7 +81,8 @@
 }
 
 .navlinks-item:not(:last-child):hover {
-    color: #ccc;
+    background-color: rgb(94 128 105);
+    border-radius: 50px;
 }
 
 .navlinks-item:last-child {

@@ -17,8 +17,12 @@ const Navbar = () => {
 
 React.useEffect(() => {
   const tmp = document.getElementById(window.location.pathname);
-  if (tmp)
-    tmp.style.textDecoration = 'underline #53C351';
+  if (tmp)  {
+    tmp.style.backgroundColor = 'rgb(94 128 105)';
+    tmp.style.borderRadius = '50px';
+  }
+    
+
 }, [])
 
 //-----------------
